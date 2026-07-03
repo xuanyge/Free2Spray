@@ -15,10 +15,10 @@ The current version of the script uses the GE model and Cu as the material by de
 
 In addition, when the model contains more than 10 million mesh elements, a computer with at least 32 GB of RAM is required.
 
-If you have any questions, please feel free to contact: xuanyu.ge@polimi.it.
+If you have any questions, please feel free to contact: xuanyu.ge@polimi.it
 
 If you use this program, please cite the following paper,
 
-Free2Spray: X. Ge, L. Zhou, A.A. Lordejani, A.H. Astaraee, S. Bagherifard, M. Guagliano, Large-Scale Multi-Particle Cold Spray Simulation Framework for Deposit Morphology and Deformation Analysis, Additive Manufacturing  (2026) 105285.
+Free2Spray: X. Ge, L. Zhou, A.A. Lordejani, A.H. Astaraee, S. Bagherifard, M. Guagliano, Large-Scale Multi-Particle Cold Spray Simulation Framework for Deposit Morphology and Deformation Analysis, Additive Manufacturing  127 (2026) 105285.
 
 GE material model: X. Ge, L. Zhou, S. Bagherifard, M. Guagliano, High-Fidelity modeling of cold spray: Improved constitutive material model and nonlocal mesh sensitivity mitigation, International Journal of Mechanical Sciences 321 (2026) 111654.
